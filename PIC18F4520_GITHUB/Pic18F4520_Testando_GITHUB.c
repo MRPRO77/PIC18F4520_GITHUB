@@ -12,7 +12,7 @@
    Autor: Tecnologo. Marcelo Rodrigues
    CREA-SP 5070505617
 
-   Data de Inicio: 31/07/2022       Versão:   2022.3.7
+   Data de Inicio: 25/06/2023       Versão:   2022.3.7
 
    Versão Multi-folhas VS-CODE
 
